@@ -66,7 +66,6 @@ console.log(x);
 
 **B2 Upper Intermidiate**, working experience with foreign co-workers, top managers and help-desk team from US, Canada, Germany and UAE.
 
-![SF-SET](C:\Users\ZorinaIE\Desktop\images\SFSET.jpg)
 
 
 
