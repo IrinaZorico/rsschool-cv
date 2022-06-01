@@ -1,8 +1,9 @@
-# Irina Zorina
+# Irina Zorina 
+![Photo CV](https://user-images.githubusercontent.com/105856787/171396770-c69f0854-44a7-4a58-98a9-5c39f61751f7.jpg)
 ### irinazorina@internet.ru
 ### cell: +7-964-285-80-81
 ### Discord: IrinaZorina (@IrinaZorico)
-### LinkedIn: Irina Zorina
+### LinkedIn: Irina Zorina 
 *******************************************************************************************************************************************************************
 
 ## JavaScript Developer (Junior) Frontend
@@ -64,7 +65,14 @@ console.log(x);
 
 ### English proficiency:
 
-**B2 Upper Intermidiate**, working experience with foreign co-workers, top managers and help-desk team from US, Canada, Germany and UAE.
+B2 Upper Intermidiate, working experience with foreign co-workers, top managers and help-desk team from US, Canada, Germany and UAE.
+![111](https://user-images.githubusercontent.com/105856787/171396899-b2e34370-645c-40cc-849f-465475048cda.jpg)![000](https://user-images.githubusercontent.com/105856787/171396859-dbcaf241-c099-49d0-a0fd-2bde84b5bb59.jpg)
+
+![222-1](https://user-images.githubusercontent.com/105856787/171396965-f582f6dc-65c3-47c9-88c4-7599859029ae.jpg)
+
+
+
+
 
 
 
