@@ -45,7 +45,7 @@ function multiply(a, b) {
 
 };
 
-let x = multiply (2, 12);*
+let x = multiply (a, b);
 
 console.log(x);
 ```
