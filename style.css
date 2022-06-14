@@ -58,7 +58,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 45px;
-  padding: 0 220px;
+  padding: 0 160px;
 }
  
 .section1 {
@@ -91,7 +91,7 @@ body {
 .name-before {
   position: relative;
   top: 85px;
-  left: 165px;
+  left: 135px;
   display: inline-block;
 }
  
